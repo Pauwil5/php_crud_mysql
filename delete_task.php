@@ -7,7 +7,7 @@
         if (!$result){
             die("Query Failed");
         }
-        $_SESSION['message'] = 'Tarea Removida Exitosamente';
+        $_SESSION['message'] = 'Tarea Removida Exitosamente en Prim Prueba';
         $_SESSION['message_type'] = 'danger';
         header("Location: index.php");
     }
