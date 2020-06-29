@@ -137,7 +137,7 @@
              <a href="delete_task.php?id=<?php echo $row['id']?>" class="btn btn-outline-primary">
              <i class = "far fa-check-circle"></i>                                  
              </a>
-             <a href="delete_task.php?id=<?php echo $row['id']?>" class="btn btn-outline-warning">
+             <a href="delete_task.php?id=<?php echo $row['id']?>" class="btn btn-light">
              <i class = "far fa-check-circle"></i>                                  
              </a>
          </td>
